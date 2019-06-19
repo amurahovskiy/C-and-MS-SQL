@@ -1,2 +1,2 @@
-# C-and-MS-SQL
+# Sharp and-MS-SQL
 ado.net
